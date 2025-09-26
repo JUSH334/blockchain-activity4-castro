@@ -1,6 +1,4 @@
 # Activity 4
 
-Notes:
+Notes: Team 08
 
-Team 08
-Token address: 0xB7f8BC63BbcaD18155201308C8f3540b07f84F5e
