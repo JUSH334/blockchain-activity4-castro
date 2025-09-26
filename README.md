@@ -1,1 +1,6 @@
-# blockchain-activity4-castro
+# Activity 4
+
+Notes:
+
+Team 08
+Token address: 0xB7f8BC63BbcaD18155201308C8f3540b07f84F5e
